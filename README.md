@@ -1,4 +1,5 @@
 # Instagram Automation Bot
+This project was originally developed as a Selenium-based browser automation exercise. It is preserved as an archived learning project and may no longer function because Instagram’s interface and authentication processes have changed. The repository demonstrates experience with Python, Selenium, browser automation, and troubleshooting dynamic web interfaces.
 
 A Python + Selenium project that logs into Instagram, scrapes followers/following lists, 
 and compares them to find users who don’t follow back.
